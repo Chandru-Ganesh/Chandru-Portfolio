@@ -1,0 +1,106 @@
+{
+  "certifications": [
+    {
+      "id": 1,
+      "title": "Full Stack Web Development",
+      "provider": "NPTEL",
+      "date": "2024",
+      "issueDate": "March 2024",
+      "description": "Comprehensive course covering React, Node.js, MongoDB, and modern web development practices. Includes hands-on projects and real-world applications.",
+      "status": "Completed",
+      "category": "web-development",
+      "skills": ["React", "Node.js", "MongoDB", "Express.js", "REST APIs"],
+      "credentialId": "NPTEL24CS001",
+      "verificationUrl": "#",
+      "image": "/api/placeholder/300/200",
+      "grade": "Elite + Gold",
+      "duration": "12 weeks"
+    },
+    {
+      "id": 2,
+      "title": "Python for Data Science",
+      "provider": "Coursera",
+      "date": "2024",
+      "issueDate": "January 2024",
+      "description": "Advanced Python programming with focus on data analysis, visualization, and machine learning fundamentals using pandas, numpy, and scikit-learn.",
+      "status": "Completed",
+      "category": "data-science",
+      "skills": ["Python", "Pandas", "NumPy", "Matplotlib", "Scikit-learn"],
+      "credentialId": "COURSERA2024DS",
+      "verificationUrl": "#",
+      "image": "/api/placeholder/300/200",
+      "grade": "95%",
+      "duration": "6 weeks"
+    },
+    {
+      "id": 3,
+      "title": "Smart India Hackathon 2023",
+      "provider": "Government of India",
+      "date": "2023",
+      "issueDate": "September 2023",
+      "description": "Participated in national-level hackathon with innovative IoT solution for smart city waste management. Developed real-time monitoring system using sensors and mobile app.",
+      "status": "Participated",
+      "category": "competition",
+      "skills": ["IoT", "React Native", "Firebase", "Arduino", "Problem Solving"],
+      "credentialId": "SIH2023-456",
+      "verificationUrl": "#",
+      "image": "/api/placeholder/300/200",
+      "grade": "Top 50 Teams",
+      "duration": "36 hours"
+    },
+    {
+      "id": 4,
+      "title": "AWS Cloud Practitioner",
+      "provider": "Amazon Web Services",
+      "date": "2023",
+      "issueDate": "Expected: December 2024",
+      "description": "Fundamentals of cloud computing, AWS core services, security, pricing, and support. Preparing for industry-standard cloud certification.",
+      "status": "In Progress",
+      "category": "cloud",
+      "skills": ["AWS", "Cloud Computing", "EC2", "S3", "Lambda"],
+      "credentialId": "In Progress",
+      "verificationUrl": "#",
+      "image": "/api/placeholder/300/200",
+      "grade": "Preparing",
+      "duration": "8 weeks"
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "label": "All Certifications",
+      "description": "View all certifications and achievements"
+    },
+    {
+      "id": "web-development",
+      "label": "Web Development",
+      "description": "Frontend and backend development certifications"
+    },
+    {
+      "id": "data-science",
+      "label": "Data Science",
+      "description": "Data analysis and machine learning certifications"
+    },
+    {
+      "id": "cloud",
+      "label": "Cloud Computing",
+      "description": "Cloud platforms and services certifications"
+    },
+    {
+      "id": "cybersecurity",
+      "label": "Cybersecurity",
+      "description": "Security and ethical hacking certifications"
+    },
+    {
+      "id": "competition",
+      "label": "Competitions",
+      "description": "Hackathons and programming competitions"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2024-12-15",
+    "totalCertifications": 5,
+    "completedCertifications": 3,
+    "inProgressCertifications": 1
+  }
+}
