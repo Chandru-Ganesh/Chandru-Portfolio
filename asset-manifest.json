@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Chandru-Portfolio/static/css/main.fb9b231e.css",
-    "main.js": "/Chandru-Portfolio/static/js/main.71d9a9d7.js",
+    "main.js": "/Chandru-Portfolio/static/js/main.ad06426e.js",
     "static/js/453.9b88696e.chunk.js": "/Chandru-Portfolio/static/js/453.9b88696e.chunk.js",
     "index.html": "/Chandru-Portfolio/index.html",
     "main.fb9b231e.css.map": "/Chandru-Portfolio/static/css/main.fb9b231e.css.map",
-    "main.71d9a9d7.js.map": "/Chandru-Portfolio/static/js/main.71d9a9d7.js.map",
+    "main.ad06426e.js.map": "/Chandru-Portfolio/static/js/main.ad06426e.js.map",
     "453.9b88696e.chunk.js.map": "/Chandru-Portfolio/static/js/453.9b88696e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb9b231e.css",
-    "static/js/main.71d9a9d7.js"
+    "static/js/main.ad06426e.js"
   ]
 }
